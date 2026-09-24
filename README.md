@@ -196,6 +196,6 @@ Licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-Built by [Santhosh Udaiyar](https://github.com/Santhosh-Udaiyar) and [Yazhini SP][https://github.com/yazhini-stack]
+Built by [Santhosh Udaiyar](https://github.com/Santhosh-Udaiyar) and [Yazhini SP](https://github.com/yazhini-stack)
 
 </div>
